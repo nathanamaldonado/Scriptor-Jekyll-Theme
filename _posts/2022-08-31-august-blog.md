@@ -2,7 +2,7 @@
 layout: post
 title: "August 2022"
 description: "Orientation Week, Natalia Lafourcade, and Mi Gente"
-date: 2022-08-31
+date: 2022-09-30
 feature_image: images/dc.webp
 ---
 When I left for the airport, my brothers were preparing for their first day of senior year. I pretended everything was the same and that my school was a little further away. Still, nothing could stop me from believing I made the wrong decision to leave California and my little brothers. 
@@ -19,6 +19,6 @@ Eventually, though, my parents left for Los Angeles. I knew I had to leave home,
 
 I made an effort to become more social during orientation week, and I found Irma, whose dad went to the same high school as mine in Guatemala. I even met up with Michael from San Diego, whom I had been messaging on Instagram, and Bianca, who conducted my student scholarship interview.  
 
-In high school, your friends are primarily limited to the people in your class, but I found myself befriending upperclassmen, too. For example, Ashley and Cris are co-parents of Mi Gente, the Latine cultural organization on campus. Paris and Sergio are also co-parents; Sergio even crocheted a flower for me, which I keep on my desk as my only room decoration. 
+In high school, your friends are primarily limited to the people in your class, but I found myself befriending upperclassmen, too. For example, Ashley and Cris are co-parents of Mi Gente, the Latine cultural organization on campus. Paris and Sergio are also co-parents; Sergio even crocheted a flower for me, which I keep on my desk as my only room decoration. Mine and Saphal's navy blue sheets and empty walls give boy room, but one day, I will make the time to decorate. 
 
 Lastly, I am trying to appreciate Duke and the opportunities allotted to me without idealizing the institution. For one, my orientation group (Project Identity & Culture) took a trip to Washington, D.C., during orientation week to visit the Smithsonian museums. Not only was flying to Duke my second time on a plane, but this was the only time I could have ever gone to our nation's capital for free.
