@@ -5,9 +5,6 @@ description: What do you do though?
 feature_image: images/graduation.jpg
 ---
 
-## Resume
-<iframe width="100%" height="500" src="docs/resume.pdf">
-
 ## Huang Research Fellow
 
 Investigated artificial intelligence bias in large language models and corpus limitations on translation technologies;
@@ -24,3 +21,6 @@ Explored power and powerless language interactions experienced by students at Du
 
 Examined the perception of the Guatemalan Civil War by choice of language employed by critical figures, such as political leaders, news outlets, and historical literature;
 
+## Resume
+
+<iframe width="100%" height="500" src="docs/resume.pdf">
