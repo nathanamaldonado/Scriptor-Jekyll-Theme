@@ -7,29 +7,29 @@ feature_image: images/graduation.jpg
 
 ## Artificial Intelligence Bias in Large Language Models
 
-Investigated artificial intelligence bias in large language models and corpus limitations on translation technologies;
+Investigated artificial intelligence bias in large language models and corpus limitations on translation technologies.
 
-[I'm an inline-style link](https://www.google.com)
+<iframe width="100%" height="400" src="docs/Artificial Intelligence Bias in Large Language Models.pdf">
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 
-## Consumer Sentiment Analysis
 
-Studied trends from McDonald's store reviews to determine customer sentiment, geographic patterns, and temporal trends across the United States through SAS analytics;
+## Fast Food Consumer Sentiment Analysis
 
-https://docs.google.com/document/d/1XdUttVMw8MIZL_RaiSQMf-BA_N-1BMNdJf3YbQlvHUA/edit?usp=sharing
+Studied trends from McDonald's store reviews to determine customer sentiment, geographic patterns, and temporal trends across the United States through SAS analytics.
 
-## Language and Gender Research
+[link](https://docs.google.com/document/d/1XdUttVMw8MIZL_RaiSQMf-BA_N-1BMNdJf3YbQlvHUA/edit?usp=sharing){:target="_blank"}
 
-Explored power and powerless language interactions experienced by students at Duke University and potential institutional resolutions;
+## Gender and Sexuality Language Exploration at Duke University
 
-https://docs.google.com/presentation/d/1TTOw_tIBdRyAa2iSPk6FxqAePOTAjvOKvyCLr7vthlI/edit#slide=id.p
+Explored power and powerless language interactions experienced by students at Duke University and potential institutional resolutions.
 
-## Language and the Media Research
+[link](https://docs.google.com/presentation/d/1TTOw_tIBdRyAa2iSPk6FxqAePOTAjvOKvyCLr7vthlI/edit#slide=id.p){:target="_blank"}
 
-Examined the perception of the Guatemalan Civil War by choice of language employed by critical figures, such as political leaders, news outlets, and historical literature;
+## Linguistic Analysis of the Guatemalan Civil War in the Media
 
-https://docs.google.com/presentation/d/1bwcdXMqVZC4Mh1mNzDr65hV-6MF-kWaAAQQrT_w5EVo/edit#slide=id.gfa67cfe217_0_0
+Examined the perception of the Guatemalan Civil War by choice of language employed by critical figures, such as political leaders, news outlets, and historical literature.
+
+[link](https://docs.google.com/presentation/d/1bwcdXMqVZC4Mh1mNzDr65hV-6MF-kWaAAQQrT_w5EVo/edit#slide=id.gfa67cfe217_0_0){:target="_blank"}
 
 ## Resume
 
