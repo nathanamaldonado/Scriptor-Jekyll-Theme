@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "September 2022"
+title: "October 2022"
 description: "Model Minority, Drive-By, and Halloweekend"
-date: 2022-09-30
+date: 2022-10-31
 feature_image: images/hollenbeck.jpg
 ---
 
