@@ -14,7 +14,7 @@ Before I left for North Carolina, Isaak drove Ethan and me to a Jack in the Box 
 
 My dad hardly opened up about his childhood or his life, so my brothers and I speculated he was a Russian spy for the longest time, pretending to be a Latino California salesman. In reality, his upbringing was likely too complicated to discuss with us as children. It is difficult to think of my father as a boy, but I am sure he loved all the same things I did.
 
-Our air conditioner did not work in Fresno, and in Los Angeles, our home predated all ventilation systems. So, all my brothers and I could do every summer to fend off the cold was sleep on the floor with our shirts off. Imagine my surprise when I found out it actually gets cold in Durham. 
+Our air conditioner did not work in Fresno, and in Los Angeles, our home predated all ventilation systems. So, all my brothers and I could do every summer to fend off the heat was sleep on the floor with our shirts off. Imagine my surprise when I found out it actually gets cold in Durham. 
 
 Because of Accutane, my skin was too sensitive to go outside, so I was locked in when I was back in North Carolina. After a whole semester here, I finally got a chance to begin decorating my room. I ordered the same image prints I had on my wall back home and quickly put them up as soon as they were ready. 
 
