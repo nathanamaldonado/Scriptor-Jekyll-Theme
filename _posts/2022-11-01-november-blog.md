@@ -2,11 +2,13 @@
 layout: post
 title: "November 2022"
 description: "Thanksgiving, Chicago, and the L"
-date: 2022-09-30
+date: 2022-11-30
 feature_image: images/skydeck.jpg
 ---
 
 Having already visited my family for fall break and the homesickness slowly fading, I knew I wanted to spend the holidays with my friends. Fortunately, Liv was kind enough to invite Aaron and me to spend Thanksgiving with her family in the north Chicago suburbs. 
+
+<!--more-->
 
 Aaron and I arrived together, and I was taken aback when Liv picked us up from the airport and drove barefoot. I would be left in a random Midwest field if I said anything, though. I will get that driver's license one day, and you will all have to deal with it! 
 
