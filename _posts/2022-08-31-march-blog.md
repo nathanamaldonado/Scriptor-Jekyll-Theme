@@ -10,6 +10,8 @@ Last summer, my good friend, Mahi Patel, called me the Virginia Woolf of teenage
 
 <!--more-->
 
+## California
+
 When my brothers and I were younger, we talked about visiting each other in college and staying in each other's dorms. I love California and my family, but I had to leave when I did. I had to become my own person and leave the loves of my life and best friends. 
 
 This past spring break, however, I visited Isaak and Ethan in San Diego and Irvine. I could see how the other half lives in La Jolla and the suburban hell of Orange County. 
