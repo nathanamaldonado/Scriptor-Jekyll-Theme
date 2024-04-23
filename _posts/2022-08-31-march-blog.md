@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "March Blog"
-description: "My birthday, Spring break, and Adderall"
+title: "March 2024"
+description: "My Birthday, Spring Break, and Adderall"
 date: 2024-03-31
 feature_image: images/laskyline.jpg
 ---
