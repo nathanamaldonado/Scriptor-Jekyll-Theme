@@ -29,11 +29,11 @@ google_analytics: ""
 # Site navigation - each item must have a title and a url.
 navigation:
   - text: About
-    url: /about/
+    url: /Users/nathanmaldonado/Documents/GitHub/nathanamaldonado.github.io/about.md
   - text: Photography
-    url: /photography/
+    url: /Users/nathanmaldonado/Documents/GitHub/nathanamaldonado.github.io/photography.md
   - text: Portfolio
-    url: /portfolio/
+    url: /Users/nathanmaldonado/Documents/GitHub/nathanamaldonado.github.io/portfolio.md
 
 # The shortname for your Disqus site to enable comments.
 disqus: justgoodthemes
