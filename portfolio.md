@@ -9,9 +9,7 @@ feature_image: images/graduation.jpg
 
 Investigated artificial intelligence bias in large language models and corpus limitations on translation technologies.
 
-<iframe width="100%" height="400" src="docs/Artificial Intelligence Bias in Large Language Models.pdf">
-
-
+[link](https://drive.google.com/file/d/1SDBlkrIhohgH2ri4ZM_YxBSWK0YMoHv3/view?usp=sharing){:target="_blank"}
 
 ## Fast Food Consumer Sentiment Analysis
 
