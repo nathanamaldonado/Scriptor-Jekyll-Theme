@@ -12,7 +12,7 @@ My classes are finally picking up, and while I am not too nervous about them, I 
 
 ## Spire Prom
 
-I didn't go to my prom or any school dance. To be honest, I didn't want to. I know, I know, you only get one prom. While my high school did have a prom, COVID meant that we had multiple unorganized proms, and I wanted to avoid attempting to navigate that. What made it weirder was that "fun parents" often organized them and afters. Uh, no. I think I would rather drink glass shards.
+I didn't go to my prom or any school dance. To be honest, I didn't want to. I know, I know, you only get one prom. While my high school did have one, COVID meant that we had multiple unorganized proms, and I wanted to avoid attempting to navigate that. What made it weirder was that "fun parents" often organized them and afters. Uh, no. I think I would rather drink glass shards.
 
 SPIRE, though, had its own formal in downtown Durham called 'SPIRE Prom.' When I told Irma about it, she seemed excited, so I invited her, and we spent the rest of the night sporadically meeting people and laughing about these interactions later. 
 

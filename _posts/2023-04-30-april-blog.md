@@ -20,4 +20,4 @@ I even took him to the gardens for a picnic, and my scholarship director bought 
 
 Lastly, we watched The Super Mario Bros. Movie with Dani, Ruby, Ashley, Mariana, and Mike, and while I was pretty confused the entire time, I loved Jack Black's Peaches the most. The last day he was here, though, was stormed over. He got an authentic North Carolina experience, and I am happy he enjoyed his time with me.
 
-I have not been the best at calling my family recently, but seeing my brother helped me see how valuable this love is. Beyond that, he could finally put a face to all the names and stories I told him about. I am just excited for my turn to visit him in college. 
+I have not been the best at calling my family recently, but seeing my brother helped me see how valuable this love is. Beyond that, he could finally put a face to all the names and stories I told him about. I am just now excited for my turn to visit him in college. 
