@@ -11,7 +11,7 @@ I chose Duke because of the opportunity to study K'iche', my family's indigenous
 
 Beyond my passion to serve a broader indigenous revival effort across the Americas, I am a proud older brother of twins who attend UC Irvine and UC San Diego; I am a polyglot (English, Spanish, French, and K'iche'); I laugh on roller coasters and during psychological thrillers; I failed my written driving test three times; I got multiple facial piercings for $25 from a guy offering an unlimited discount. Lastly, I am a California elitist.
 
-I started this blog to document my experiences in college as a young adult far from home and, hopefully, give my friends and family life updates. I am originally from Southern California, but my family moved to the Central Valley around the start of my high school career. I will usually tell people I am from Los Angeles because that is where I feel closest to friends and family. 
+I started this blog to document my experiences in college as a young adult far from home and, hopefully, give my friends and family life updates. I am originally from Southern California, but my family moved to the Central Valley around the start of my high school career. So, I will usually tell people I am from Los Angeles because that is where I feel closest to home. 
 
 Nevertheless, I am not on this journey alone. Instead, as you read my blog and updates, you will hear about all the incredible people I have met and all the unbelievable experiences I have shared with them. Each person you meet in college will become part of your story, and I hope to be part of your story as well. 
 
