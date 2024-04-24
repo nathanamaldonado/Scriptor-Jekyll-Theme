@@ -15,7 +15,7 @@ title: "Nathan A. Maldonado"
 description: "A racketeering almond mom, chronic and certified chatterbox, and known Snowden associate"
 
 # The subpath of your site, e.g. /blog, for generating urls.
-baseurl: ""
+baseurl: "/blog"
 
 # The base hostname & protocol of your site for where absolute urls are needed.
 url: "https://nathanamaldonado.github.io"
@@ -29,9 +29,9 @@ google_analytics: ""
 # Site navigation - each item must have a title and a url.
 navigation:
   - text: About
-    url: about
+    url: about.md
   - text: Portfolio
-    url: portfolio
+    url: portfolio.md
 
 # The shortname for your Disqus site to enable comments.
 disqus: justgoodthemes
