@@ -4,4 +4,4 @@ title: Photography and such
 description: What have you seen?
 ---
 
-blah blah blah
+gimme a sec. i still need to cook
