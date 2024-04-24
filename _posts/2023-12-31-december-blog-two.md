@@ -3,7 +3,7 @@ layout: post
 title: "December 2023"
 description: "Knitting, Gorditas, and Mexican Man Tendencies"
 date: 2023-12-31
-feature_image: images/mariachiplaza.jpg
+feature_image: images/mariachigazebo.jpg
 ---
 
 Has anyone ever knit you something? My grandma taught my mom to knit, and she taught me. Knitting someone a scarf, blanket, or gloves is one of the most beautiful things humans can do for each other. 

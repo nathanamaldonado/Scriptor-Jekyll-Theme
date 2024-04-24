@@ -30,8 +30,6 @@ google_analytics: ""
 navigation:
   - text: About
     url: about
-  - text: Photography
-    url: photography
   - text: Portfolio
     url: portfolio
 
