@@ -3,7 +3,7 @@ layout: post
 title: "February 2024"
 description: "Cat Cafe, Pillow Cases, and Mirecourt"
 date: 2024-02-28
-feature_image: images/malibu.jpg
+feature_image: images/malibu.jpeg
 ---
 
 This past Valentine's Day, I explored more of Chapel Hill and even visited the cat cafe on Franklin Street. The entire time, though, I felt like I was on another planet because of the Benadryll. Evolution should have corrected this, but a baby kitten named Tiger can take me out for some reason.
