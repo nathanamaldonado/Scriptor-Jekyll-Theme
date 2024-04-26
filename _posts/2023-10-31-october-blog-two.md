@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "October 2023"
-description: ""
+description: "The Spot, Accents, and Plates"
 date: 2023-10-31
 feature_image: images/gardens.jpg
 ---

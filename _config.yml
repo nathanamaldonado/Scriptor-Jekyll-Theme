@@ -29,9 +29,9 @@ google_analytics: ""
 # Site navigation - each item must have a title and a url.
 navigation:
   - text: About
-    url: about
+    url: '/page:num/about'
   - text: Portfolio
-    url: portfolio
+    url: '/page:num/portfolio'
 
 # The shortname for your Disqus site to enable comments.
 disqus: justgoodthemes

@@ -18,10 +18,4 @@ I know I am a location lurker. I know that. Still, for some reason, I was not ch
 
 However, two of the most beautiful gifts were from Sergio and Saphal. Sergio gifted me a children's book written in French and K'iche', knowing I would be starting the language track next semester: Je suis petite, moi? ¿In nitz' na? Saphal also found a picture of me and my brothers and customized a glass display with the song Amor Eterno written over it. Thank you again, everyone, for being part of my story. 
 
->Prefiero estar dormida que despierta 
->De tanto que me duele que no estés
->Cómo quisiera, ay 
->Que tú vivieras 
->Que tus ojitos jamás se hubieran 
->Cerrado nunca y estar mirándolos 
->Amor eterno 
+>Prefiero estar dormida que despierta / De tanto que me duele que no estés / Cómo quisiera, ay / Que tú vivieras / Que tus ojitos jamás se hubieran / Cerrado nunca y estar mirándolos / Amor eterno 
