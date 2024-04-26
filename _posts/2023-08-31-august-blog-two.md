@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "August 2023"
-description: ""
+description: "The Observatory, Aggressive Vendors, and Cow Licks"
 date: 2023-08-31
 feature_image: images/guatemala.jpg
 ---
