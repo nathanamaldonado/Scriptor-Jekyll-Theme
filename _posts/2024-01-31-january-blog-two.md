@@ -18,6 +18,6 @@ The following morning, I woke up at 4 AM to take the Metrolink and Green Line to
 
 Once I boarded my plane and landed in Miami for my layover, I was shocked to see Julian was on my same flight to Raleigh-Durham. Eventually, the telecom let us know that our flight was canceled. Instead, I would have to spend the next two days in Miami before the weather cleared. In a surprising turn of events, I spent these days trying Publix Deli Subs and playing with dogs in diapers. 
 
-After returning to Durham, I made plans with Mahi and Noelia to get piercings. The piercer was offering unlimited facial piercings for $25. It would have been financially irresponsible not to take advantage of his generosity, so I got my double helix on both ears, my right ear, and the single helix on my left. When I told my brothers about this, they told me to explain this to our parents as an indigenous revival effort. 
+After returning to Durham, I made plans with Mahi and Noelia to get piercings. The piercer was offering unlimited facial piercings for $25. It would have been financially irresponsible not to take advantage of his generosity, so I got a double helix on my right, single on my left, and my double lobes pierced. When I told my brothers about this, they told me to explain this to our parents as an indigenous revival effort. 
 
 They. Hurt. So. Bad.
