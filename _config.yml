@@ -29,7 +29,8 @@ google_analytics: ""
 # Site navigation - each item must have a title and a url.
 navigation:
   - text: About
-    url: '/page:num/about'
+    url: /page1/about
+    url: /page2/about
   - text: Portfolio
     url: '/page:num/portfolio'
 
