@@ -29,21 +29,9 @@ google_analytics: ""
 # Site navigation - each item must have a title and a url.
 navigation:
   - text: About
-    url: about
-    url: page2/about
-    url: page3/about
-    url: page4/about
-    url: page5/about
-    url: page6/about
-    url: page7/about
+    url: https://nathanamaldonado.github.io/about
   - text: Portfolio
-    url: portfolio
-    url: page2/portfolio
-    url: page3/portfolio
-    url: page4/portfolio
-    url: page5/portfolio
-    url: page6/portfolio
-    url: page7/portfolio
+    url: https://nathanamaldonado.github.io/portfolio
 
 
 # The shortname for your Disqus site to enable comments.
