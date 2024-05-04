@@ -22,7 +22,7 @@ The guilt of being a first-generation college student is a burden I only wish up
 
 ## Mirecourt 
 
-In other unserious news, I decided to rush to Mirecourt, a selective living group on campus with Aaron and Julian. Bianca was my first friend at Duke and has primarily been a big sister to me throughout my time here, advising me when to stay away from biblical villains, encouraging me to apply for specific fellowships, and telling me to just chill out sometimes. 
+In other unserious news, I decided to rush to Mirecourt, a selective living group on campus with Aaron. Bianca was my first friend at Duke and has primarily been a big sister to me throughout my time here, advising me when to stay away from biblical villains, encouraging me to apply for specific fellowships, and telling me to just chill out sometimes. 
 
 When she presented Mirecourt as a space to meet more alternative people at Duke, I knew that, at the very least, I could also have fun with friends I already knew in the organization. While it is supposed to be a generally unserious social organization, people are still cut from the various rounds, and it is interesting to hear why some people think Mirecourt disliked them. That form of social policing is often inevitable when we give power to students no older than us to decide who can hang and who cannot. 
 

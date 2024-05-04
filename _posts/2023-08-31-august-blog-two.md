@@ -6,7 +6,7 @@ date: 2023-08-31
 feature_image: images/guatemala.jpg
 ---
 
-Julian chose to visit Los Angeles, so Irma and I had the privilege of showing him our home and saying repeatedly, "I know a spot." Irma told us about how her high school friends would go to the In-N-Out on Century Boulevard and watch the planes fly over while on our way back from driving past USC. 
+A friend chose to visit Los Angeles, so Irma and I had the privilege of showing him our home and saying repeatedly, "I know a spot." Irma told us about how her high school friends would go to the In-N-Out on Century Boulevard and watch the planes fly over while on our way back from driving past USC. 
 
 <!--more-->
 

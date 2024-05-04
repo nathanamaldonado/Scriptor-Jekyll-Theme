@@ -14,7 +14,7 @@ Also, as the semester closes, I get reminded of the people I will see at a dista
 
 At various points this fall semester, friends I was once close with would greet me with, "Where have you been?" Knowing space will soon divide us, I have spent more time with these friends I love with all my soul. I even took on a new project for one of the most loving people in my life: a blanket for Riley. As I have mentioned before, knitting for me represents a generational love, a love transferred from my grandma to my mom to me. With every knit and purl stitch, I write my devotion for you into the blanket. You deserve this love thousands of times over. 
 
-Beyond costume parties and thoughts about studying abroad, I finally was challenged to evaluate and reflect on my time and relationships at Duke. The last time I carried this heavy feeling, I sought comfort from my parents, who assured me we would meet everyone when we were supposed to. Every time Fleetwood Mac's Silver Spring serenades me, every time I look out at the city from Griffith Observatory, and every time I drown myself in pho, you will be with me—until you are not.
+Beyond costume parties and thoughts about studying abroad, I finally was challenged to evaluate and reflect on my time and relationships at Duke. The last time I carried this heavy feeling, I sought comfort from my parents, who assured me we would meet everyone when we were supposed to. You are with me until you are not.
 
 I am happy you were in my story and am happy to have been part of yours. 
 
