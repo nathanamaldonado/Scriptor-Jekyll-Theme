@@ -16,5 +16,7 @@ At various points this fall semester, friends I was once close with would greet 
 
 Beyond costume parties and thoughts about studying abroad, I finally was challenged to evaluate and reflect on my time and relationships at Duke. The last time I carried this heavy feeling, I sought comfort from my parents, who assured me we would meet everyone when we were supposed to. Every time Fleetwood Mac's Silver Spring serenades me, every time I look out at the city from Griffith Observatory, and every time I drown myself in pho, you will be with me—until you are not.
 
+I am happy you were in my story and am happy to have been part of yours. 
+
 >I am happy you were in my story and am happy to have been part of yours. 
 When you leave, all you take / Oh, is your memories / And I wanna take mine of you with me / I'm gonna take mine of you with me
